@@ -3,4 +3,4 @@
   to = "https://download.dnscrypt.info/:splat"
   status = 200
   force = true 
-  headers = {X-From = "Netlify"}
+  headers = {X-From = "download.dnscrypt.uk"}
