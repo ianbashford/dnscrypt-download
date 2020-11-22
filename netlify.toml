@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/"
+  to = "https://download.dnscrypt.info"
+  status = 200
+  force = true 
+  headers = {X-From = "Netlify"}
